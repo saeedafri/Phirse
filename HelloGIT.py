@@ -1,2 +1,1 @@
-print("Hello GIT")
-print("Hello GIt 2")
+print('Version 3')
